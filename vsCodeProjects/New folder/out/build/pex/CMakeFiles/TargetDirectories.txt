@@ -1,0 +1,5 @@
+C:/Users/malak/vsCodeProjects/New folder/out/build/pex/CMakeFiles/main.dir
+C:/Users/malak/vsCodeProjects/New folder/out/build/pex/CMakeFiles/package.dir
+C:/Users/malak/vsCodeProjects/New folder/out/build/pex/CMakeFiles/package_source.dir
+C:/Users/malak/vsCodeProjects/New folder/out/build/pex/CMakeFiles/edit_cache.dir
+C:/Users/malak/vsCodeProjects/New folder/out/build/pex/CMakeFiles/rebuild_cache.dir
